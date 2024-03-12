@@ -40,17 +40,19 @@ This is a simple authentication app built with TypeScript, Express.js, and MySQL
 
 #### You will need to add the following environment variables to your .env file
 
-`DATABASE_NAME`
+```
+DATABASE_NAME
 
-`DATABASE_HOST`
+DATABASE_HOST
 
-`DATABASE_USER`
+DATABASE_USER
 
-`DATABASE_PASSWORD`
+DATABASE_PASSWORD
 
-`SESSION_NAME`
+SESSION_NAME
 
-`SESSION_SECRET`
+SESSION_SECRET
+```
 
 6. Start the server
 
